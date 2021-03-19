@@ -1,5 +1,5 @@
 Django==2.1.10
-djangorestframework==3.10.0
+djangorestframework==3.11.2
 Mako==1.0.13
 Markdown==3.1.1
 psycopg2==2.8.3
